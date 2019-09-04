@@ -14,7 +14,7 @@
      const quantity = document.getElementById('number').value;
 
      let url = '';
-     url += 'http://uinames.com/api/?';
+     url += 'https://uinames.com/api/?';
      
      if(selectedOrigin !== '') {
           url += `region=${selectedOrigin}&`;
