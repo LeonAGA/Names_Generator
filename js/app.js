@@ -19,7 +19,6 @@
      if(selectedOrigin !== '') {
           url += `region=${selectedOrigin}&`;
      
-     
      if(selectedGender!== '') {
           url += `gender=${selectedGender}&`;
      }
@@ -29,6 +28,7 @@
      }
      }else{
           alert('Please select an \'Origin\' ');
+          selectedOrigin.focus();
      }
 
      fetch(url)
