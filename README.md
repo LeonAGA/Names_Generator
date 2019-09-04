@@ -20,13 +20,13 @@
 ## Features
 
 - Use of Fetch API.
-- Use of Bootstrap Classes.
+- Use of Normalize and Skeleton.
 - Check names for your children.
 
 ## See it online
 
 - [`netlify`](https://github.com/LeonAGA/Names_Generator)
-- [`codepen`](https://codepen.io/LeonAGA/pen/WNeZpWo)
+- [`codepen`](https://codepen.io/LeonAGA/pen/PoYOeMY)
 
 ## Links to other proyects
 
